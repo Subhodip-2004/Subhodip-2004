@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋 I'm Subhodip
 
-<!--
-**Subhodip-2004/Subhodip-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast who loves to explore new domains, solve problems, and build innovative projects. 🚀
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 **Education:** [Add your education details here if you'd like]
+- 💻 **Skills:** [Add a list of your key technical skills here]
+- 🌱 **Currently Learning:** [Add the technologies or frameworks you're exploring]
+- 🎯 **Interests:** Coding, Web Development, Open Source, and more!
+- 📫 **Contact Me:** [Add your email or other contact details if you'd like]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+![Subhodip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhodip-2004&show_icons=true&theme=radical)
+
+## My Projects
+Here are some of my favorite projects:
+- **[Project Name](#)**: Short description of the project.
+- **[Project Name](#)**: Short description of the project.
+- **[Project Name](#)**: Short description of the project.
+
+## Let's Connect!
+- 🌐 [Portfolio Website](#) (Add your website link if you have one)
+- 💼 [LinkedIn](#) (Add your LinkedIn profile link)
+- 🐦 [Twitter](#) (Add your Twitter handle if you use it)
+
+---
+
+Thanks for visiting my GitHub profile! 😊 Feel free to explore my repositories and connect with me. Let's create something awesome together! 🌟
