@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Subhodip Keshari
 
-### Product Engineer | Creative Developer | React, Next.js, TypeScript Specialist | Building Premium Web Experiences
+### Creative Developer | React, Html , Css Specialist | Building Premium Web Experiences
 
 </div>
 
